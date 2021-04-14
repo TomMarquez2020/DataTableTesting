@@ -1,0 +1,18 @@
+{
+  "data": [
+    {
+      "ident": "1",
+      "fname": "Armand",
+      "lname": "Warren",
+      "zip": "56045",
+      "country": "Taiwan, Province of China"
+    },
+    {
+      "ident": "2",
+      "fname": "Xenos",
+      "lname": "Salas",
+      "zip": "71090",
+      "country": "Liberia"
+    }
+  ]
+}
